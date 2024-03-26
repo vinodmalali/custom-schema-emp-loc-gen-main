@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/sujan-shetty71/custom-schema-emp-loc-gen/main/proof-of-employee.jsonld",
-      "jsonSchema": "https://raw.githubusercontent.com/sujan-shetty71/custom-schema-emp-loc-gen/main/proof-of-employee.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/vinodmalali/custom-schema-emp-loc-gen-main/main/proof-of-employee.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/vinodmalali/custom-schema-emp-loc-gen-main/main/proof-of-employee.json"
     }
   },
   "required": [
@@ -116,10 +116,10 @@
           "type": "integer"
         },
         "location": {
-          "type": "integer"
+          "type": "string"
         },
         "gender": {
-          "type": "integer"
+          "type": "string"
         }
       }
     }
